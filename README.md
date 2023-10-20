@@ -1,6 +1,6 @@
 # Задача 1. Большое целое число BigInt
 
-[![Testing](https://github.com/ptrvsrg/NSU-OOP-CXX-BigInt/actions/workflows/cmake.yml/badge.svg)](https://github.com/ptrvsrg/NSU-OOP-CXX-BigInt/actions/workflows/cmake.yml)
+[![Testing](https://github.com/ptrvsrg/Big-Integer/actions/workflows/cmake.yml/badge.svg)](https://github.com/ptrvsrg/Big-Integer/actions/workflows/cmake.yml)
 
 ### Общая информация
 
